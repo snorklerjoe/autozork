@@ -1,0 +1,3 @@
+[submodule "devshane-zork"]
+	path = devshane-zork
+	url = https://github.com/devshane/zork.git
