@@ -1,0 +1,150 @@
+West of House
+You are standing in an open field west of a white house, with a boarded front door.
+There is a small mailbox here.
+ 
+>south
+South of House
+ 
+>east
+Behind House
+ 
+>open window
+With great effort, you open the window far enough to allow entry.
+ 
+>enter house
+Kitchen
+
+>west
+Living Room
+ 
+>take lamp
+Taken.
+ 
+>move rug
+With a great effort, the rug is moved to one side of the room, revealing the dusty cover of a closed trap door.
+ 
+>open trap door
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+ 
+>turn on lamp
+The brass lantern is now on.
+ 
+>down
+The trap door crashes shut, and you hear someone barring it.
+ 
+Cellar
+ 
+>south
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A narrow passage goes north, and the path you are on continues to the east.
+ 
+>east
+Gallery
+ 
+>take painting
+Taken.
+ 
+>north
+Studio
+ 
+>up chimney
+Kitchen
+On the table is an elongated brown sack, smelling of hot peppers.
+A bottle is sitting on the table.
+The glass bottle contains:
+  A quantity of water
+ 
+>up
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+ 
+>take knife
+Taken.
+ 
+>take rope
+Taken.
+ 
+>down
+Kitchen
+ 
+>west
+Living Room
+Above the trophy case hangs an elvish sword of great antiquity.
+ 
+>open case
+Opened.
+ 
+>put painting inside case
+Done.
+ 
+>drop knife
+Dropped.
+ 
+>take sword
+Taken.
+ 
+>open trap door
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+ 
+>down
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+Your sword is glowing with a faint blue glow.
+ 
+>north
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the room.
+Your sword has begun to glow very brightly.
+The troll's mighty blow drops you to your knees.
+ 
+>kill troll with sword
+You are still recovering from that last blow, so your attack is ineffective.
+The troll's axe barely misses your ear.
+ 
+>kill troll with sword
+Clang! Crash! The troll parries.
+The troll's axe barely misses your ear.
+ 
+>kill troll with sword
+The troll is confused and can't fight back.
+The troll slowly regains his feet.
+ 
+>kill troll with sword
+The troll is knocked out!
+ 
+>kill troll with sword
+The unarmed troll cannot defend himself: He dies.
+Almost as soon as the troll breathes his last breath, a cloud of sinister black fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+ 
+>drop sword
+Dropped.
+ 
+>east
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down at the north end of the room.
+ 
+>east
+Round Room
+This is a circular stone room with passages in all directions. Several of them have unfortunately been blocked by cave-ins.
+ 
+>southeast
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+>east
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another room below. Protecting you from a precipitous drop is a wooden railing which circles the dome.
+ 
+>tie rope to railing
+The rope drops over the side and comes within ten feet of the floor.
+ 
+>down
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above you is a large dome. Up around the edge of the dome (20 feet up) is a wooden railing. In the center of the room sits a white marble pedestal.
+A piece of rope descends from the railing above, ending some five feet above your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
